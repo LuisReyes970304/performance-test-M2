@@ -9,3 +9,4 @@ const navList = document.querySelector(".nav__list");
 menuToogle.addEventListener("click", () => {
     navList.classList.toggle("show");
 });
+
